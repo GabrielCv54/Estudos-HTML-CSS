@@ -1,0 +1,3 @@
+Tags <p> </p: Tags de abertura e fechamento de parágrafos
+Tag <br>: Quebra de linha
+Tag <hr>: Linha horizontal

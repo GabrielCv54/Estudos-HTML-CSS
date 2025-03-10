@@ -1,0 +1,4 @@
+&#x(código do emoji);
+
+
+&(nome do caracter especial);
